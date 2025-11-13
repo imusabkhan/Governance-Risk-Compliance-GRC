@@ -1,0 +1,36 @@
+
+## CISSP Study Roadmap:
+https://www.youtube.com/watch?v=_OdjF0eknr0&t=7s
+
+## Resources: Start with one of the following video lectures
+https://bazaartech.udemy.com/course/cissp-domain-1-2/
+https://www.youtube.com/watch?v=cXG29uxMBLE&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0
+
+## Book
+CISSP Official Study Guide (Mike Chapel)
+
+## How to Read CISSP Official Book
+https://www.youtube.com/watch?v=bry3XO6NTVo
+
+CISSP has 8 Domains (21 Chapters):
+1.  
+
+## How to Preparation:
+1st Domain#1 Video -> Domain#1 Book ->  Domain#1 Coffee Shorts
+After all that, go through the Key "Exam Summary" in Cybex (Book) which is very important.
+
+
+## Practice Questions
+1. Learn Z App - Mobile App
+https://isc2-learnzapp.web.app/
+https://play.google.com/store/apps/details?id=com.learnzapp.cissp
+
+2. Boson "Questions"
+https://www.boson.com/product/exsim-max-for-cissp/
+
+3. How to think like a manager - Luke Ahmed
+https://assets.skool.com/f/19783744fc364313b3183cb2773daa23/b35635487f1f426da1212ba423a11e8f19b7aae9d50143b2af5c071072e927b8
+
+
+Make notes of wague or new words or terminology.
+Make notes of those domains you are doing repetitive mistakes. 

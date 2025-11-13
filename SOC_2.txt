@@ -1,0 +1,32 @@
+SOC (System Organization Controls)
+
+
+Four Part Process: 
+
+
+
+Reliance of 3rd Parties
+More Data to Protect
+
+66% of Data breaches from those same third Parties
+Need a way Vet Our partners.
+
+
+
+
+American Institute of Certified Public Accountants (AICPA)
+
+
+Trust Services Criteria
+1. Security (Common Criteria)
+2. Availability
+3. Confidentiality
+4. Processing Integrity
+5. Privacy
+
+
+4 Steps Process:
+1. Gap Assessment
+2. Remediation
+3. SOC 2 Type 
+4. SOC I Type II
