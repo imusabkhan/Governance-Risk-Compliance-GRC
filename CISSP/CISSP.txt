@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=_OdjF0eknr0&t=7s
 https://bazaartech.udemy.com/course/cissp-domain-1-2/
 https://www.youtube.com/watch?v=cXG29uxMBLE&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0
 
-## Book
+## Sybex Book (9th or 10th Edition)
 CISSP Official Study Guide (Mike Chapel)
 
 ## How to Read CISSP Official Book
@@ -31,6 +31,16 @@ https://www.boson.com/product/exsim-max-for-cissp/
 3. How to think like a manager - Luke Ahmed
 https://assets.skool.com/f/19783744fc364313b3183cb2773daa23/b35635487f1f426da1212ba423a11e8f19b7aae9d50143b2af5c071072e927b8
 
+4. 50 CISSP Practice Questions. Master the CISSP Mindset
+https://www.youtube.com/watch?v=qbVY0Cg8Ntw
 
-Make notes of wague or new words or terminology.
-Make notes of those domains you are doing repetitive mistakes. 
+### Make notes of wague or new words or terminology.
+### Make notes of those domains you are doing repetitive mistakes. 
+
+## 2 Weeks before Exam:
+https://www.youtube.com/watch?v=TreDxg9Y3yo&list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu&index=5
+
+## Read "Memory Palace" by Prashant Mohan (CISSP)
+
+## Key Points:
+Focus on Why for each domain, it will help in remembering and clearing the exam. 
