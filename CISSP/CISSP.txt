@@ -13,7 +13,7 @@ CISSP Official Study Guide (Mike Chapel)
 https://www.youtube.com/watch?v=bry3XO6NTVo
 
 CISSP has 8 Domains (21 Chapters):
-1.  
+1.  Security and Risk Management - 16%
 
 ## How to Preparation:
 1st Domain#1 Video -> Domain#1 Book ->  Domain#1 Coffee Shorts

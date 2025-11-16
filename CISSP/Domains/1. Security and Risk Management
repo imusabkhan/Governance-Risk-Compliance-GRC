@@ -1,0 +1,15 @@
+1. CIA (Confidentiality, Integrity, Availability)
+Opposite of CIA is DAD (Disclosure, Alteration, Destruction)
+
+Disclosure: Someone not authorized getting access to your Resources/information.
+Alteration: Your data has been changed.
+Destruction: Your system / Data has been destroyed or rendered inaccessible.
+
+2. IAAA (Identification, Authentication, Authorization and Accountability)
+Identification: Your name
+Authentication: Should be always done MFA
+    Something You Know: Password, Pass Phrase, PIN ETC.
+    Something You Have: ID, Passport, Smart Card, Token, Cookie on PC 
+    Something You Are: Fingerprint, Biometric, IRIS scan, Facial Geometry. 
+
+
